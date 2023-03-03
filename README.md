@@ -78,9 +78,7 @@ Configurating various Help Topics.
 <p>
 Additionally, after configurating our osTicket system, adding agents(workers), assigning their departments,teams and creating end users accounts. We proceed by creating tickets and experimenting various SLA's and Help topic.
 </p>
-<p>
-<img src="https://i.imgur.com/XNOr2Cs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 <img src="https://i.imgur.com/nVJBqzS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
