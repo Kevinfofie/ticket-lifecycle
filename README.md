@@ -59,3 +59,59 @@ Furthermore, adding agents(workers) who will be in charge of managing various ti
 Adding new end users into our ticketing system.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/QQKBnTm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating different Service-level agreements(SLA)
+</p>
+<p>
+<img src="https://i.imgur.com/uBf6Swv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configurating various Help Topics.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/XNOr2Cs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Additionally, after configurating our osTicket system, adding agents(workers), assigning their departments,teams and creating end users accounts. We proceed by creating tickets and experimenting various SLA's and Help topic.
+</p>
+<p>
+<img src="https://i.imgur.com/XNOr2Cs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/nVJBqzS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/x958z7q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Reviewing a ticket and setting priority.
+</p>
+
+<p>
+<img src="https://i.imgur.com/yN0LqAC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/dDx4lxi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Assigning the ticket to an agent(worker) for it to be resolve.
+</p>
+<p>
+<img src="https://i.imgur.com/FfVZqun.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/KZq0xtK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Inconclussion, we login as an agent and resolved a ticket.
+</p>
+
+
+
+
+
+
